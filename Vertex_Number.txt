@@ -1,0 +1,15 @@
+VOI Number LUT
+Left_Accumbens 930 26
+Left_Amygdala 1368 18
+Left_Caudate 2502 11
+Left_Hippocampus 2502 17
+Left_Pallidum 1254 13
+Left_Putamen 2502 12
+Left_Thalamus 2502 10
+Right_Accumbens 930 58
+Right_Amygdala 1368 54
+Right_Caudate 2502 50
+Right_Hippocampus 2502 53
+Right_Pallidum 1254 52
+Right_Putamen 2502 51
+Right_Thalamus 2502 49
